@@ -1,0 +1,13 @@
+.MainText h1 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: "Permanent Marker", cursive;
+}
+
+.MainText .opacity-0 {
+    opacity: 0;
+}
+
+.MainText .opacity-1 {
+    opacity: 1;
+}

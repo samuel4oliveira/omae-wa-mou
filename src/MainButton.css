@@ -1,0 +1,20 @@
+.MainButton {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.MainButton {
+    margin-top: 100px;
+    font-size: 1.25rem;
+    height: 50px;
+    width: 300px;
+    border-radius: 20px;
+    color: #5c5858;
+    background-color: #f7ece2;
+    font-family: "Roboto Slab", serif;
+}
